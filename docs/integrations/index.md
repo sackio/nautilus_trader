@@ -18,6 +18,7 @@ The following integrations are currently supported:
 | [Interactive Brokers](https://www.interactivebrokers.com)                    | `INTERACTIVE_BROKERS` | Brokerage (multi-venue) | ![status](https://img.shields.io/badge/stable-green)    | [Guide](integrations/ib.md)            |
 | [OKX](https://okx.com)                                                       | `OKX`                 | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/beta-yellow)     | [Guide](integrations/okx.md)           |
 | [Polymarket](https://polymarket.com)                                         | `POLYMARKET`          | Prediction Market (DEX) | ![status](https://img.shields.io/badge/stable-green)    | [Guide](integrations/polymarket.md)    |
+| [Polygon.io](https://polygon.io)                                             | `POLYGON`             | Data Provider           | ![status](https://img.shields.io/badge/beta-yellow)     | [Guide](integrations/polygon.md)       |
 | [Tardis](https://tardis.dev)                                                 | `TARDIS`              | Crypto Data Provider    | ![status](https://img.shields.io/badge/stable-green)    | [Guide](integrations/tardis.md)        |
 
 - **ID**: The default client ID for the integrations adapter clients.
